@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realdevMCios/test-script/main/Trapreal_Hub_Level_1_to_2800.lua"))()
